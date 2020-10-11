@@ -28,5 +28,6 @@ See [LICENSE](LICENSE.md).
 
 
 ## Mind Map of CCP
-This is single view of all GCP services 
-https://whimsical.com/PREWe7bY1bzGbRxwbHmkmD
+This is single view of all GCP services. 
+[GCP all service](https://whimsical.com/PREWe7bY1bzGbRxwbHmkmD)
+
