@@ -25,3 +25,8 @@ Except as otherwise noted, the content in this repository is licensed under the
 code samples are licensed under the [Apache 2.0 License](http://www.apache.org/licenses/LICENSE-2.0).
 
 See [LICENSE](LICENSE.md).
+
+
+## Mind Map of CCP
+This is single view of all GCP services 
+https://whimsical.com/PREWe7bY1bzGbRxwbHmkmD
